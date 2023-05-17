@@ -37,8 +37,6 @@ The Plastic Recycling Rewards App is available for both iOS and Android platform
 ## Usage
 Once installed, the Plastic Recycling Rewards App is intuitive and user-friendly. Users can log their plastic recycling activities, track their progress, and view their accumulated points. They can explore available rewards, redeem points, and stay updated on the latest recycling news and events in Astana.
 
-## Contributing
-We welcome contributions to the Plastic Recycling Rewards App project. If you have ideas, suggestions, or improvements, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
