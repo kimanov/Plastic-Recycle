@@ -44,4 +44,4 @@ We welcome contributions to the Plastic Recycling Rewards App project. If you ha
 This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
-For any inquiries or suggestions regarding the project, please contact us at your-kimanovl@gmail.com.
+For any inquiries or suggestions regarding the project, please contact us at kimanovl@gmail.com.
